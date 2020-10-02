@@ -9,3 +9,5 @@ Curso de Minería de Datos
 [Ejercicios 1 y 2](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/Ejercicios_1.pdf)
 
 [Resumen Presentaciones](https://github.com/nachorz2/mineriadedatos/blob/master/ResumenPresentaciones_1887848.pdf)
+
+[Mapa Mental 2](https://github.com/nachorz2/mineriadedatos/blob/master/Mapa%20Mental%202.pdf)
