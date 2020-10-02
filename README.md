@@ -1,6 +1,6 @@
 # Míneria de Datos
 
-Curso de Minería de Datos
+Curso de Minería de Datos\t
 José Ignacio Contreras Ruiz
 1887848
 ## Fase 1
