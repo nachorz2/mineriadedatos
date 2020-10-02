@@ -1,8 +1,7 @@
 # Míneria de Datos
 
-Curso de Minería de Datos\t
-José Ignacio Contreras Ruiz
-1887848
+Curso de Minería de Datos
+
 ## Fase 1
 
 [Mapa Mental 1](https://github.com/nachorz2/mineriadedatos/blob/master/Mapa%20mental%201.pdf)
