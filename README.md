@@ -14,4 +14,6 @@ Curso de Minería de Datos
 
 [Mapa Mental 2](https://github.com/nachorz2/mineriadedatos/blob/master/Mapa%20Mental%202.pdf)
 
+## Fase 2
+
 [Análisis BD](https://github.com/nachorz2/mineriadedatos/blob/master/Analisis_BD1887848.docx.pdf)
