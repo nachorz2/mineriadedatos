@@ -17,4 +17,5 @@ Curso de Minería de Datos
 ## Fase 2
 
 [Análisis BD](https://github.com/nachorz2/mineriadedatos/blob/master/Analisis_BD1887848.docx.pdf)
+
 [PythonBásico_1887848](https://github.com/nachorz2/mineriadedatos/blob/master/PythonBasico_1887848.ipynb)
