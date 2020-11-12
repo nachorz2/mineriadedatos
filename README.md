@@ -25,3 +25,5 @@ Curso de Minería de Datos
 [Ejercicio Limpieza de Datos](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/Untitled%20(1).ipynb)
 
 [Ejercicios Visualización](https://github.com/nachorz2/mineriadedatos/blob/master/VisualizacionJugadores.ipynb)
+
+[Avance 2 PIA](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/AvancePIA_II_Gpo002_Equipo9.ipynb)
