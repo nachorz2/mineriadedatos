@@ -27,3 +27,5 @@ Curso de Minería de Datos
 [Ejercicios Visualización](https://github.com/nachorz2/mineriadedatos/blob/master/VisualizacionJugadores.ipynb)
 
 [Avance 2 PIA](https://github.com/SaulArtHdz/MINERIADATOS/blob/master/AvancePIA_II_Gpo002_Equipo9.ipynb)
+
+## [POSTER](https://github.com/AlisonRoldan13/MineriaDeDatos/blob/master/PIA_Equipo09_Grupo02.pdf)
